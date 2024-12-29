@@ -1,4 +1,4 @@
-# Mas-Yuko
+# Abang-Yuko
 # 💫 About Me:
 🔭 I am currently studying at a university in Jakarta<br>👯 I’m looking to collaborate on web development<br>🤝 I'm looking for help to find an effective method of learning JavaScript and PHP<br>🌱 I’m currently learning javascript, php<br>⚡ Fun fact i am happy and interested in the world of programming, and want to start a career from zero to hero
 
